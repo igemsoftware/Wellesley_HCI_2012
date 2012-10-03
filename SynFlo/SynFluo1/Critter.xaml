@@ -1,0 +1,36 @@
+﻿<s:ScatterViewItem x:Class="SynFluo1.Critter"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:s="http://schemas.microsoft.com/surface/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" 
+             x:Name="critterSVI" 
+             >
+
+    <s:ScatterViewItem.Resources>
+        <!--<Storyboard x:Key="moveCritter" >
+            <PointAnimation
+                x:Name="critterPiontAni"
+                Storyboard.TargetProperty="Center"
+                Storyboard.TargetName="critterSVI"
+                Duration="0:0:3"
+                />-->
+            <!-- Animate the center point of the ellipse from 100 X, 300 Y
+             to 400 X, 100 Y over 5 seconds. -->
+            <!--<PointAnimation
+             Storyboard.TargetProperty="Center"
+             Storyboard.TargetName="critterSVI"
+             Duration="0:0:5" 
+             From="100,300"
+             To="400,100"
+             RepeatBehavior="Forever" />
+        </Storyboard>-->
+    </s:ScatterViewItem.Resources>
+
+
+    <!--<Grid>
+            
+    </Grid>-->
+</s:ScatterViewItem>

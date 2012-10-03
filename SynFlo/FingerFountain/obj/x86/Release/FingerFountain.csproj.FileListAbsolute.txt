@@ -1,0 +1,16 @@
+C:\Users\xug2\Desktop\FingerFountain\bin\Release\InstalledAppInfo\appIcon.png
+C:\Users\xug2\Desktop\FingerFountain\bin\Release\FingerFountain.exe.config
+C:\Users\xug2\Desktop\FingerFountain\bin\Release\FingerFountain.exe
+C:\Users\xug2\Desktop\FingerFountain\bin\Release\FingerFountain.pdb
+C:\Users\xug2\Desktop\FingerFountain\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\xug2\Desktop\FingerFountain\obj\x86\Release\FingerFountain.g.resources
+C:\Users\xug2\Desktop\FingerFountain\obj\x86\Release\FingerFountain.exe
+C:\Users\xug2\Desktop\FingerFountain\obj\x86\Release\FingerFountain.pdb
+C:\Users\xug2\Desktop\SynFluo\FingerFountain\bin\Release\FingerFountain.exe.config
+C:\Users\xug2\Desktop\SynFluo\FingerFountain\obj\x86\Release\FingerFountain.exe
+C:\Users\xug2\Desktop\SynFluo\FingerFountain\obj\x86\Release\FingerFountain.pdb
+C:\Users\xug2\Desktop\SynFluo\FingerFountain\bin\Release\InstalledAppInfo\appIcon.png
+C:\Users\xug2\Desktop\SynFluo\FingerFountain\bin\Release\FingerFountain.exe
+C:\Users\xug2\Desktop\SynFluo\FingerFountain\bin\Release\FingerFountain.pdb
+C:\Users\xug2\Desktop\SynFluo\FingerFountain\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\xug2\Desktop\SynFluo\FingerFountain\obj\x86\Release\FingerFountain.g.resources

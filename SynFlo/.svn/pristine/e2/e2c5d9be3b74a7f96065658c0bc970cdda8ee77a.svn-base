@@ -1,0 +1,30 @@
+﻿<s:SurfaceWindow x:Class="SynFluo1.SurfaceWindow1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    xmlns:local="clr-namespace:SynFluo1"
+    Title="SynFluo1"
+                 
+    >
+
+    <!--Using  msdn sample, sifteo sends animation piont of evil critter far away intil the piont is close enough for sifteo to "collect"-->
+    
+
+
+    <Grid x:Name="BaseGrid" 
+          Width="900" 
+          Height="600" 
+          Background="DarkGoldenrod">
+        
+        <s:ScatterView x:Name="environmentSV" 
+                       Background="pink" 
+                       Width="500" 
+                       Margin="200,200,200,40">
+
+            <local:Critter Background="MediumOrchid">
+                
+            </local:Critter>
+        </s:ScatterView>
+          
+    </Grid>
+</s:SurfaceWindow>
